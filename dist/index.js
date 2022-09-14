@@ -61,6 +61,9 @@ function kgtolbs(weight) {
 }
 kgtolbs(10);
 kgtolbs('10');
+
+
+//fifth type
 let textBox = {
     Drag: () => { },
     Resize: () => { }
