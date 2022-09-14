@@ -14,6 +14,8 @@ let numbers = [1, 2, 3, 4];
 numbers.forEach(n => n.toFixed);
 let user = [1, 'waleed'];
 user.push(1);
+
+//second type
 const small = 1;
 const medium = 2;
 const large = 3;
