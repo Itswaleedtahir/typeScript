@@ -26,6 +26,8 @@ var size;
     size[size["large"] = 3] = "large";
 })(size || (size = {}));
 ;
+
+//third type
 let mySize = size.medium;
 console.log(mySize);
 function tax(income, taxYear = 2020) {
