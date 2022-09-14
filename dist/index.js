@@ -36,6 +36,9 @@ function tax(income, taxYear = 2020) {
     return income * 1.2;
 }
 tax(20000);
+
+
+//fourth type
 let employee = {
     id: 1,
     name: 'Waleed',
