@@ -1,4 +1,6 @@
 "use strict";
+
+//start
 let age = 20;
 if (age < 40)
     age += 10;
