@@ -5,6 +5,8 @@ let age = 20;
 if (age < 40)
     age += 10;
 console.log(age);
+
+//first type
 let sale = 12334534;
 let course = "Typescript";
 let isPublished = true;
